@@ -19,7 +19,7 @@ Sigue estos pasos para clonar e iniciar el proyecto en tu entorno local.
 
 ### 1 Clonar el repositorio
 
-```bash
+
 git clone https://github.com/jabernabe2025/Experience.git
 
 cd tu_proyecto
@@ -35,12 +35,12 @@ ddev import-db --src=./BBDD/db.sql
 
 ddev launch
 
-### Credenciales de acceso
+### 4 Credenciales de acceso
 
 Usuario: admin
 Contraseña: admin
 
-### Verificar el entorno
+### 5 Verificar el entorno
 
 ddev describe
 
